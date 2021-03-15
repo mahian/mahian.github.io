@@ -1,0 +1,44 @@
+.navbar .top-right {
+    left: 35em;
+}
+.navbar .bottom ul li {
+    padding: 0px 17px;
+}
+.navbar .bottom {
+    width: 146.7vw;
+}
+#section-1 {
+    width: 146.7vw;
+}
+#section-1 .left {
+    width: 114vw;
+}
+#section-2 .left .img img {   
+    width: 67vw;
+}
+#section-2 .right {
+    left: 378px;
+}
+.midel-border {
+    width: 115vw;
+}
+#section-3{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50em;
+    justify-content: center;
+}
+#section-3 .box .box-item {
+    width: 13em;
+}
+#section-4 {
+    width: 44em;
+}
+#section-3 .box p {
+    width: 141px;
+}
+.end-box {
+    width: 146.7vw;
+}
+    
+    

@@ -1,0 +1,38 @@
+.navbar .top-right {
+    left: 42em;
+}
+.navbar .bottom ul li {
+    padding: 0px 23px;
+}
+.navbar .bottom {
+    width: 77.7rem;
+}
+#section-1 {
+    width: 77.7rem;
+}
+#section-1 .left {
+    width: 65vw;
+}
+#section-2 .left .img img {   
+    width: 58vw;
+}
+#section-2 .right {
+    left: 281px;
+}
+.midel-border {
+    width: 100vw;
+}
+#section-3 .box .box-item {
+    width: 10em;
+}
+#section-4 {
+    width: 53em;
+}
+#section-3 .box p {
+    width: 141px;
+}
+.end-box {
+    width: 127.7vw;
+}
+    
+    
